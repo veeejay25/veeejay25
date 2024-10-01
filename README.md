@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vee Jay Maclang</h1>
-<h3 align="center">Digital Alchemist | Transforming Code into Captivating Web Experiences</h3>
+<h3 align="center">Digital Alchemist | Transforming Code into Captivating Web Experiences | Based in the UK</h3>
 
 - 🌱 I’m currently learning **Node.js, React, Ruby**
 
